@@ -11,8 +11,8 @@ img {
 	padding-bottom: 30px;
 }
 
-label {
-
+label, input, button {
+	font-weight: bold;
 }
 input {
 	width: 356px;
@@ -25,9 +25,10 @@ br {
 button {
 	width: 400px;
 	margin-top: 15px;
+	background-color: #65c470;
 }
 input, button {
-	border: 2px solid #298eea;
+	border: 2px solid #565656;
 	padding: 20px;
 }
 
